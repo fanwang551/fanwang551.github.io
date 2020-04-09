@@ -14,15 +14,14 @@ tags:
 {% include toc title = "目錄" %}
 
 # 前言
-
-<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/NNCxNntn2yc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
 從前記得高中的時候，學校的美術老師都會放一些得獎的動畫短片，老人與海就是其中一部。
 特殊的油畫風格配合著音樂，將老人的回憶、幻想與現實經歷，巧妙而夢幻的融合在一起。
 這部短片在我心中留下很深刻的印象，但是我卻沒有讀過這本經典小說。
 剛搬到台北的我，也還沒抽出時間去探訪市立圖書館，只能先拜託佩佩從學校代借這本有點歲月的「老人與海」
 
 ![封面](/assets/images/album/日誌用圖/IMG_20200408_222954.jpg){: .align-center}
+
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/NNCxNntn2yc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 # 獅子海岸的夢
 > 他不再夢見暴風，夢見女人，夢見偉大的遭遇，也不曾夢見大魚、打鬥、或角力，也沒有夢見過他的太太。他只夢見現在的地方和沙灘上的獅子。牠們自由嬉戲，像薄暮裡的小貓，他愛牠們不下於那個小伙子。他從未夢見小伙子。
