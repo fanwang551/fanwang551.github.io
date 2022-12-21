@@ -47,19 +47,26 @@ header:
 	- EasyTL: Transfer Learning paper reading and implement EasyTL in Python([pyEasyTL](https://github.com/KodeWorker/pyEasyTL))
 	- Heart Sound Classification Research: Using CINC2016 AISTATS2012 datasets for [heart sound classification research](https://github.com/KodeWorker/HeartSound)
 - Projects:
-	- MB connector classification (DEMO): using Pytorch-EfficientNet-B0 for MB connector classification (NG/PASS)
-
+	- MB connector classification demo
+	- TinkerEdgeT object detection demo
+	- ABB robot with camera on NB defect detection demo (socker communication with ABB robot)
+	- AISVision: 
+		- Classification model develop
+		- Classification and Object Detection Model Owner
+- Competitions:
+	- #1 on ASUS RoboACE 2022 competition (Robot Football Tournament in ASUS)
+	- #3 on 2022 Intel Dev Cup competition in "AI in Experiment track" (Team: CyberAudio 2022)
 
 ## 專長
 ### 程式語言
 - **Python**: 工作後幾乎都在用Python，已經快變成我的母語了。
-- **C/C++**: 大學第一個程式語言、嵌入式系統也有用C寫過，研究所實作影像處理用C++，目前工作是將演算法轉移到FPGA上時用到。
+- **C/C++**: 大學第一個程式語言、嵌入式系統也有用C寫過，研究所實作影像處理用C++。目前工作是在撰寫跨語言(C/C++/C#/Python)的DLL時候使用。
 - **Matlab**: 整個研究所的研究成果都是用Matlab跑的，不過現在叫我做資料分析應該也是果斷跳槽用Python。
 - **Java**: 大學修演算法的時候用過，退化到幾乎不知道的程度。之後在工研院上課也有用到，台大資工老師的課滿硬的，加減學了一下。
 
 ### 其他技能
 - **Git**:工作後開始遇到系統整合才有用到，不然我也沒有機會與Github邂逅。
-- **Photoshop**:別提了，各種血汗(尿)各種淚。
+- ~~**Photoshop**:別提了，各種血汗(尿)各種淚。
 
 ## 興趣
 ### 學習目標
