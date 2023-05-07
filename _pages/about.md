@@ -5,8 +5,8 @@ excerpt: "以前博主的"
 sitemap: true
 permalink: /about/
 header:
-  image: /assets/images/profile_header.jpg
-  caption: "滿月圓瀑布"
+  image: 
+  caption: 
 ---
 ## 简介
 不想透露

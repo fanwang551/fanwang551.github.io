@@ -2,9 +2,9 @@
 main:
   - title: "年表"
     url: /year-archive/
-  - title: "類別"
+  - title: "类別"
     url: /categories/
   - title: "作品"
     url: /works/
-  - title: "關於"
+  - title: "关于"
     url: /about/
