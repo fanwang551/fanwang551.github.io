@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /tags/
-title: "標籤"
+title: "目标"
 author_profile: true
 ---
 
