@@ -1,2 +1,2 @@
-# 部落格：我的後大學時代
-[連結](https://kodeworker.github.io/)
+# 原版在这里
+[链接](https://kodeworker.github.io/)
